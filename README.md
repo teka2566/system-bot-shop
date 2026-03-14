@@ -3,6 +3,24 @@
 # Majo.exe
 
 > Majo.exe have almost everything - Fun, Memes, Images, Giveaway Moderation, Anime, NSFW and even more! Majo.exe serve over 150 commands!
+
+## ما هو هذا المشروع؟ (What is this project?)
+
+هذا المشروع هو **نظام بوت ديسكورد متكامل** يشتمل على:
+- 🤖 **بوت ديسكورد** مع أكثر من **150 أمر** (مرح، إشراف، صور، هدايا، أنمي والمزيد)
+- 🖥️ **لوحة تحكم ويب** لإدارة وتخصيص البوت عبر المتصفح
+- 🔌 **واجهة برمجية (API)** للتكاملات الخارجية
+- 🗄️ **قاعدة بيانات MySQL** لحفظ الإعدادات والإحصائيات
+
+---
+
+This project is a **complete Discord bot system** that includes:
+- 🤖 **A Discord bot** with **150+ slash commands** (Fun, Moderation, Images, Giveaways, Anime, NSFW, and more)
+- 🖥️ **A built-in web dashboard** to manage and customize the bot via a browser
+- 🔌 **A REST API** for external integrations
+- 🗄️ **A MySQL database** to store settings and statistics
+
+---
 <br><br>[![Discord](https://img.shields.io/discord/666599184844980224?color=%2334D058&logo=discord&label=Discord&style=flat-square&logoColor=fff)](https://majoexe.xyz/server)
 [![Discord.js](https://img.shields.io/badge/Discord.js-v13-%2334d058?style=flat-square&logo=npm&logoColor=fff)](https://www.npmjs.com/package/discord.js)
 [![CodeQL Checks](https://img.shields.io/github/workflow/status/igorkowalczyk/majo.exe/CodeQL%20Checks/master?style=flat-square&label=CodeQL&logo=github&color=%2334D058)](https://majoexe.xyz/)
